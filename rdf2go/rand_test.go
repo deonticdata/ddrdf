@@ -4,7 +4,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "github.com/deonticdata/rdf2go"
+	. "github.com/deonticdata/ddrdf/rdf2go"
 )
 
 var _ = Describe("Rand", func() {
